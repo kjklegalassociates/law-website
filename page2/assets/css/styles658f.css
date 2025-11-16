@@ -11,6 +11,10 @@
 	word-wrap: normal !important;
 }
 
+.footer_contact_info a {
+    color: #fff;
+}
+
 .wpcf7 .hidden-fields-container {
 	display: none;
 }
